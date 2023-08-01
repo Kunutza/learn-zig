@@ -1,5 +1,3 @@
-// https://ziglang.org/documentation/master/#WebAssembly
-
 const std = @import("std");
 
 const parseInt = std.fmt.parseInt;
