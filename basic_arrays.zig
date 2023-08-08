@@ -1,3 +1,4 @@
+// If you get error from c, you need to link against libc in build.zig
 const std = @import("std");
 
 pub fn main() !void {
